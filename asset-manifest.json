@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/clone/static/css/main.a9a0e7fc.chunk.css",
+    "main.js": "/clone/static/js/main.53837724.chunk.js",
+    "main.js.map": "/clone/static/js/main.53837724.chunk.js.map",
+    "runtime-main.js": "/clone/static/js/runtime-main.e982714c.js",
+    "runtime-main.js.map": "/clone/static/js/runtime-main.e982714c.js.map",
+    "static/js/2.a2857a73.chunk.js": "/clone/static/js/2.a2857a73.chunk.js",
+    "static/js/2.a2857a73.chunk.js.map": "/clone/static/js/2.a2857a73.chunk.js.map",
+    "index.html": "/clone/index.html",
+    "static/css/main.a9a0e7fc.chunk.css.map": "/clone/static/css/main.a9a0e7fc.chunk.css.map",
+    "static/js/2.a2857a73.chunk.js.LICENSE.txt": "/clone/static/js/2.a2857a73.chunk.js.LICENSE.txt",
+    "static/media/Doggie.6ba47b16.svg": "/clone/static/media/Doggie.6ba47b16.svg",
+    "static/media/App.scss": "/clone/static/media/WorkSans-VariableFont_wght.7655b042.ttf",
+    "static/media/arrow.a5c27d27.svg": "/clone/static/media/arrow.a5c27d27.svg",
+    "static/media/dribble.563566db.svg": "/clone/static/media/dribble.563566db.svg",
+    "static/media/giza.d11e7931.jpg": "/clone/static/media/giza.d11e7931.jpg",
+    "static/media/illustraion.143c0fec.svg": "/clone/static/media/illustraion.143c0fec.svg",
+    "static/media/img1.5a978a99.svg": "/clone/static/media/img1.5a978a99.svg",
+    "static/media/instagram.482d4132.svg": "/clone/static/media/instagram.482d4132.svg",
+    "static/media/linkedin.3ab0008f.svg": "/clone/static/media/linkedin.3ab0008f.svg",
+    "static/media/loving.571a9c7e.svg": "/clone/static/media/loving.571a9c7e.svg",
+    "static/media/moscow.f1cf8ce9.jpg": "/clone/static/media/moscow.f1cf8ce9.jpg",
+    "static/media/paris.26498916.jpg": "/clone/static/media/paris.26498916.jpg",
+    "static/media/projectmanagement.038dd612.svg": "/clone/static/media/projectmanagement.038dd612.svg",
+    "static/media/round.0dd4a456.svg": "/clone/static/media/round.0dd4a456.svg",
+    "static/media/taj.900e8882.jpg": "/clone/static/media/taj.900e8882.jpg",
+    "static/media/webdesign.8641ae8d.svg": "/clone/static/media/webdesign.8641ae8d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e982714c.js",
+    "static/js/2.a2857a73.chunk.js",
+    "static/css/main.a9a0e7fc.chunk.css",
+    "static/js/main.53837724.chunk.js"
+  ]
+}
